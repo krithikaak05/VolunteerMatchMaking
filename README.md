@@ -1,10 +1,10 @@
 # VOLUNTEER MATCHMAKING DATABASE
 
-:black_square_button: **Business Problem:**
+:inbox_tray: **Business Problem:**
 
 Addressing the challenges faced by individuals and non-profit organizations in finding suitable volunteer opportunities or qualified volunteers efficiently, Volunteer Matchmaking provides a centralized platform for streamlined connections. The platform focuses on improving matching efficiency, personalization, and reducing wasted resources.
 
-:black_square_button: **Challenges Addressed:**
+:triangular_flag_on_post: **Challenges Addressed:**
 
 1. **Matching Efficiency:**
    - Automates volunteer opportunity search for quick and accurate matches based on skills, interests, and availability.
@@ -15,7 +15,7 @@ Addressing the challenges faced by individuals and non-profit organizations in f
 3. **Wasted Resources:**
    - Minimizes resource-intensive mismatches by connecting organizations with volunteers aligned with their mission.
 
-:black_square_button: **Key Features/Use Cases:**
+:gear: **Key Features/Use Cases:**
 
 1. **User Registration and Profile Creation:**
    - Organizations and volunteers provide essential details.
@@ -47,16 +47,16 @@ Addressing the challenges faced by individuals and non-profit organizations in f
    - System collects data on user behavior, match success, and feedback.
    - Python application performs data analytics to drive continuous enhancement of the matching algorithm and overall system performance.
 
-:black_square_button: **Working**
+:bar_chart: **Working**
 
-:black_square_button: **EER & UML Diagrams:**
+:link: **EER & UML Diagrams:**
    - Entity-Relationship (EER) and Unified Modeling Language (UML) diagrams visually represent the database structure and system architecture.
 
-:black_square_button: **MySQL Implementation:**
+:computer: **MySQL Implementation:**
    - Utilizes MySQL Workbench and SQL across 15 tables for efficient database management.
 
-:black_square_button: **MongoDB Implementation:**
+:package: **MongoDB Implementation:**
    - Integrates MongoDB for scalability and flexibility in data storage and retrieval.
 
-:black_square_button: **Python Application for Data Analytics:**
+:snake: **Python Application for Data Analytics:**
    - Extracts valuable insights from user interactions, match success, and feedback to refine the matching algorithm and optimize system performance.
