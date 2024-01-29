@@ -44,9 +44,13 @@ Many individuals and non-profit organizations struggle to find suitable voluntee
 
 ## Working
 
-### Databases:
+### EER & UML Diagrams:
 
-The **Volunteer Matchmaking Database** utilizes 15 databases to manage diverse data types, including volunteer profiles, organization details, opportunity listings, and more. This structured approach facilitates efficient querying and matching processes.
+Entity-Relationship (EER) and Unified Modeling Language (UML) diagrams have been implemented to visually represent the database structure and system architecture. These diagrams provide a comprehensive overview of the relationships between entities and the flow of information within the **Volunteer Matchmaking** system.
+
+###  MySQL Implementation:
+
+The Volunteer Matchmaking Database harnesses the power of MySQL Workbench and SQL across a network of 15 tables. MySQL Workbench, serving as the intuitive interface for database management, collaborates with SQL queries to efficiently navigate and manipulate diverse data. These 15 tables encapsulate essential information such as volunteer profiles, organization details, and opportunity listings. 
 
 ### MongoDB Implementation:
 
@@ -55,11 +59,3 @@ The project integrates MongoDB, a NoSQL database, for scalability and flexibilit
 ### Python Application for Data Analytics:
 
 The Python application plays a crucial role in data analytics, extracting valuable insights from user interactions, match success, and feedback. This analytical component aids in refining the matching algorithm and optimizing the overall system performance.
-
-### EER & UML Diagrams:
-
-Entity-Relationship (EER) and Unified Modeling Language (UML) diagrams have been implemented to visually represent the database structure and system architecture. These diagrams provide a comprehensive overview of the relationships between entities and the flow of information within the **Volunteer Matchmaking** system.
-
-## Conclusion
-
-**Volunteer Matchmaking Database** addresses the challenges of volunteer recruitment by providing a streamlined platform. The combination of user profiles, a robust matching algorithm, and efficient communication channels fosters personalized and impactful community engagement. Leveraging technology, data analytics, and visual representation through EER & UML diagrams, this project aims to create a connected and thriving society through meaningful volunteerism.
